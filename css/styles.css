@@ -472,16 +472,17 @@ margin-bottom: 8px;
 }
 
 .footer-studio {
-    /* display: flex;
-    align-items: baseline; */
-    
-
+    margin-right: 120px;
 }
 
-.footer-social {
+.footer-container {
     display: flex;
     align-items: baseline;
-    margin-right: 120px;
+}
+.footer-social {
+    /* display: flex;
+    align-items: baseline;
+     */
 
 
 }
